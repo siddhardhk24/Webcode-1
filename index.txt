@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ice and Fire</title>
+    <style>
+      *{
+
+        padding: 0;
+        margin: 0;
+      }
+
+      body{
+        border-radius: 5px;
+        border-style: dashed;
+        padding: 10px;
+        margin: 2%;
+        background: url("https://img.freepik.com/free-photo/light-gray-concrete-wall_53876-89532.jpg?w=1060&t=st=1682572020~exp=1682572620~hmac=f3f9e098281fe4275de6d25f357542e32bc6cb7dabd4d753e7bd7a6cc3eeeb0f");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+      }
+
+      #div1{
+        text-align: center;
+      }
+
+      #div2{
+        text-align: center;
+      }
+
+      #div3{
+        text-align: center;
+      }
+
+      #div4{
+        text-align: center;
+      }
+
+      #div5{
+        text-align: center;
+      }
+
+      #div6{
+        text-align: center;
+      }
+
+      #div7{
+        text-align: center;
+      }
+
+      #div8{
+        text-align: center;
+      }
+
+      #div9{
+        text-align: center;
+      }
+
+      #div10{
+        text-align: center;
+      }
+    </style>
+</head>
+<body style="background-color: cadetblue;">
+  <!-- <title><i>BOOKS AND DETAILS</i></title> -->
+  <script src = "script.js">
+    
+  </script> 
+
+  
+  
+
+    
+</body>
+</html>
